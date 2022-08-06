@@ -14,23 +14,19 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 - Toon Shader
 - Vertex Color Mask
 
-## Geometry Nodes
-- Surrounder
-
----
-## Examples
-
-### Toon Shader
+### Toon Shader And Vertex Color Mask
 <img src="./Notes/images/rm/duskull.png" width="500"/>
 
 <img src="./Notes/images/rm/vertex_groups.png" width="500"/>
 
----
+## Geometry Nodes
+- Surrounder
 
 ### Surrounder
 <img src="./Notes/images/rm/weezing.png" width="500"/>
 
 <img src="./Notes/images/rm/surrounder_2.png" width="500"/>
+
 
 ## Blender Imports
 <img src="./Notes/images/rm/addons.png" width="500"/>
