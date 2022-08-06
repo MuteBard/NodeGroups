@@ -18,6 +18,7 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 - Surrounder
 
 ---
+## Examples
 
 ### Toon Shader
 <img src="./Notes/images/rm/duskull.png" width="500"/>
@@ -31,6 +32,6 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 
 <img src="./Notes/images/rm/surrounder_2.png" width="500"/>
 
-# Blender Imports
+## Blender Imports
 <img src="./Notes/images/rm/addons.png" width="500"/>
 
