@@ -23,10 +23,9 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 - Surrounder
 
 ### Surrounder
-<img src="./Notes/images/rm/weezing.png" width="500"/>
+[![](https://www.youtube.com/watch?v=xkhq65zmx-o/0.jpg)](https://www.youtube.com/watch?v=xkhq65zmx-o)
 
 <img src="./Notes/images/rm/surrounder_2.png" width="500"/>
-
 
 ## Blender Imports
 <img src="./Notes/images/rm/addons.png" width="500"/>
