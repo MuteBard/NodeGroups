@@ -2,10 +2,12 @@
 # Node Groups
 
 What is this?
-A place to serve as a singular spot for all my blender nodes, either shaders or geometry nodes, so that it is easier to import into other projects.
+
+A place to serve as a singular spot for all my blender nodes. 
+This includes both shader nodes and geometry nodes, so that it is easier to import them into other projects.
 As well as a place to keep track of all my imports incase my computer dies lmao for any reason.
 
-    To use Node groups in your project:
+    To use a Node Group in your project:
     File > Append > Search for Exports/Shaders.blend or Exports/GeomeryNodes.blend > NodeTree
 
 ## Shaders
