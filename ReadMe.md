@@ -22,6 +22,8 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 
 ### Flame Package
 
+<img src="./Notes/images/rm/f.png" width="500"/>
+
 In the `3D viewport`, under `Object Mode`, create a plane and rotate it 90 degrees on the `X` axis
 
 In the `3D viewport`, under `Object Mode`, press `CTRL A` to select `Rotation & Scale`
