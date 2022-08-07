@@ -22,7 +22,7 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 
 ### Flame Package
 
-<img src="./Notes/images/rm/f.png" width="500"/>
+<img src="./Notes/images/rm/f2.png" width="500"/>
 
 https://www.youtube.com/watch?v=6rWAHUOywAA
 
