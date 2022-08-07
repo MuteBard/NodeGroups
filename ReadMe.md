@@ -24,6 +24,8 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 
 <img src="./Notes/images/rm/f.png" width="500"/>
 
+https://www.youtube.com/watch?v=6rWAHUOywAA
+
 In the `3D viewport`, under `Object Mode`, create a plane and rotate it 90 degrees on the `X` axis
 
 In the `3D viewport`, under `Object Mode`, press `CTRL A` to select `Rotation & Scale`
