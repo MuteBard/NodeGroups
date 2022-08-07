@@ -32,15 +32,11 @@ In material `Settings` > `Blend Mode` set to `Alpha Blend`
 
 In material `Settings` > `Shadow Mode` set to `None`
 
-In the `Shader Editor`, grab Flame Package node group and copy paste everything under the COPY ME BOX and paste it to the root level
-
 <img src="./Notes/images/rm/flames0.png" width="500"/>
 
 <img src="./Notes/images/rm/flames1.png" width="500"/>
 
 <img src="./Notes/images/rm/flames2.png" width="500"/>
-
-<img src="./Notes/images/rm/flames3.png" width="500"/>
 
 ## Geometry Nodes
 - Surrounder
