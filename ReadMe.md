@@ -57,3 +57,7 @@ In material `Settings` > `Shadow Mode` set to `None`
 ## Blender Imports
 <img src="./Notes/images/rm/addons.png" width="500"/>
 
+## Resources
+
+https://www.onlineconverter.com/video-to-gif
+
