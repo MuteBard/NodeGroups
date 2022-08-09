@@ -11,7 +11,7 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
     File > Append > Search for Exports/Shaders.blend or Exports/GeomeryNodes.blend > NodeTree
 
 ## Shaders
-- Toon Shader
+- Toon Shade
 - Vertex Color Mask
 - Flame Package
 
@@ -21,6 +21,10 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 <img src="./Notes/images/rm/vertex_groups.png" width="500"/>
 
 ### Flame Package
+
+<img src="./Notes/images/rm/houndoom.png" width="500"/>
+
+https://www.youtube.com/watch?v=12FvzJxlGHQ
 
 <img src="./Notes/images/rm/f2.png" width="500"/>
 
