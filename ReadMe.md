@@ -11,7 +11,7 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
     File > Append > Search for Exports/Shaders.blend or Exports/GeomeryNodes.blend > NodeTree
 
 ## Shaders
-- Toon Shade
+- Toon Shader
 - Vertex Color Mask
 - Flame Package
 - Custom Background
@@ -20,6 +20,12 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 <img src="./Notes/images/rm/duskull.png" width="500"/>
 
 <img src="./Notes/images/rm/vertex_groups.png" width="500"/>
+
+Make sure that the Key, fill and back light  intensities are appropriate.
+Works well with custom background world shader.
+
+If using an outline, make sure that the primary material is first and the outline emission is second
+before using solidify/.2/flip
 
 ### Flame Package
 
