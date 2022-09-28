@@ -14,6 +14,7 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 - Toon Shade
 - Vertex Color Mask
 - Flame Package
+- Custom Background
 
 ### Toon Shader And Vertex Color Mask
 <img src="./Notes/images/rm/duskull.png" width="500"/>
@@ -44,8 +45,17 @@ In material `Settings` > `Shadow Mode` set to `None`
 
 <img src="./Notes/images/rm/flames2.png" width="500"/>
 
+### Custom Background
+
+<img src="./Notes/images/rm/custom_background2.jpg" width="500"/>
+
+<img src="./Notes/images/rm/custom_background0.png" width="500"/>
+
+<img src="./Notes/images/rm/custom_background1.png" width="500"/>
+
 ## Geometry Nodes
 - Surrounder
+- Movement
 
 ### Surrounder
 <img src="./Notes/images/rm/weezing.png" width="500"/>
@@ -53,6 +63,11 @@ In material `Settings` > `Shadow Mode` set to `None`
 <https://www.youtube.com/watch?v=xkhq65zmx-o>
 
 <img src="./Notes/images/rm/surrounder_2.png" width="500"/>
+
+### Movement
+<img src="./Notes/images/rm/Movement2.png" width="500"/>
+
+<img src="./Notes/images/rm/Movement.png" width="500"/>
 
 ## Blender Imports
 <img src="./Notes/images/rm/addons.png" width="500"/>
