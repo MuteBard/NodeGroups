@@ -64,7 +64,7 @@ In material `Settings` > `Shadow Mode` set to `None`
 
 <img src="./Notes/images/rm/lg0.gif" width="500"/>
 
-<img src="./Notes/images/rm/lg1.png" width="500"/>
+<img src="./Notes/images/rm/lg.png" width="500"/>
 
 ## Geometry Nodes
 - Surrounder
