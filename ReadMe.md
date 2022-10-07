@@ -15,6 +15,7 @@ As well as a place to keep track of all my imports incase my computer dies lmao 
 - Vertex Color Mask
 - Flame Package
 - Custom Background
+- Liquid Glass
 
 ### Toon Shader And Vertex Color Mask
 <img src="./Notes/images/rm/duskull.png" width="500"/>
@@ -58,6 +59,12 @@ In material `Settings` > `Shadow Mode` set to `None`
 <img src="./Notes/images/rm/custom_background0.png" width="500"/>
 
 <img src="./Notes/images/rm/custom_background1.png" width="500"/>
+
+## Liquid Glass
+
+<img src="./Notes/images/rm/lg0.gif" width="500"/>
+
+<img src="./Notes/images/rm/lg0.png" width="500"/>
 
 ## Geometry Nodes
 - Surrounder
